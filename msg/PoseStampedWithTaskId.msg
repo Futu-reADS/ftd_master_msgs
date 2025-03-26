@@ -1,4 +1,4 @@
 # PoseStampedWithTaskId.msg
-geometry_msgs/PoseStamped pose
+geometry_msgs/msg/PoseStamped pose_stamped
 std_msgs/String task_id
 
